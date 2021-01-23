@@ -1,3 +1,15 @@
 h1 {
-  color: blue;
+  color: rgb(28, 28, 31);
+}
+.conversion {
+  color: rgb(67, 40, 28);
+  font-size: 20px;
+  height: 60px;
+  width: 150px;
+  background-color: chocolate;
+  
+}
+body {
+  text-align: center;
+
 }
